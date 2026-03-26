@@ -3,6 +3,7 @@
 A simple and interactive **Movie Recommender System** built using **Python** and **Streamlit** that suggests similar movies based on a selected title.
 
 ---
+<img width="1919" height="1120" alt="Screenshot 2026-03-26 203536" src="https://github.com/user-attachments/assets/baddcff9-def0-4ae4-be53-9911fc183bf0" />
 
 ## 🚀 Features
 
@@ -37,6 +38,3 @@ A simple and interactive **Movie Recommender System** built using **Python** and
 
 ---
 
-## ▶️ Run Locally
-
-### Clone repo
